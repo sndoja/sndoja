@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🌱 Completing my MSc in Data Science @ AUEB.
 
 🧐 Work related interests:
-- REST APIS, ms, k8s
+- REST APIs, ms, k8s
 - NLP, Recommender Systems, Deep Learning, MLOps
 
 ❤️ Lifelong interests
