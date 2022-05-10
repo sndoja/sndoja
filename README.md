@@ -1,4 +1,4 @@
-### Hi there 👋
+### System.out.println("Hello World 👋")
 
 <!--
 **sndoja/sndoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### BIO
+
+💻 I am currently working as a Software Engineer @Accepted in Athens.
+
+🌱 Completing my MSc in Data Science @ AUEB.
+
+🧐 Work related interests:
+- REST APIS, ms , k8s
+- NLP, Recommender Systems , Deep Learning ,MLOps
+
+❤️ Life related interests
+- Photography
+- Hiking
+- Climbing
+- Travelling
+- Volunteer
+
+
+
+
+
+
