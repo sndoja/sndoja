@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 💻 I am currently working as a Software Engineer @Accepted in Athens.
 
-🌱 Completing my MSc in Data Science @ AUEB.
+🌱 Recently graduated from the MSc in Data Science @ AUEB.
 
 🧐 Work related interests:
 - REST APIs, ms, k8s
