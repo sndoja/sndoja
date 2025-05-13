@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### BIO
 
-💻 I am currently working as a Software Engineer @Accepted in Athens.
+💻 I am currently working as a Software Engineer @Eurobank in Athens.
 
 🌱 Recently graduated from the MSc in Data Science @ AUEB.
 
